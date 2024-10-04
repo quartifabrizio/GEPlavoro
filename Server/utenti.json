@@ -1,0 +1,11 @@
+[
+    {
+      "id": 1,
+      "username": "MarioRossi",
+      "password": "password123",
+      "email": "mario.rossi@example.com",
+      "sesso": "M",
+      "ruolo": "datore"
+    }
+  ]
+  
